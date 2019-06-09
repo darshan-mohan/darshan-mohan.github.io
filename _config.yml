@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Darshan Mohan"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Data Scientist - AI, IBM"
   location         : "New York, NY"
   email            : "mohan.darshan@gmail.com"
   links:
@@ -126,10 +126,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/darshan-mohan"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/darshanmohan"
 
 # Site Footer
 footer:
