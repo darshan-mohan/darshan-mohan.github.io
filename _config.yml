@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Darshan Mohan"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Data Scientist - AI, IBM"
   location         : "New York, NY"
   email            : "mohan.darshan@gmail.com"
