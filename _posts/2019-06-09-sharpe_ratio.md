@@ -339,7 +339,7 @@ stock_returns.describe()
 
 
 
-![png](/assets/images/notebook_9_1.png)
+![png](/assets/images/sharpe-ratio/notebook_9_1.png)
 
 
 ## 6. Daily S&P 500 returns
@@ -374,7 +374,7 @@ sp_returns.describe()
 
 
 
-![png](/assets/images/notebook_11_1.png)
+![png](/assets/images/sharpe-ratio/notebook_11_1.png)
 
 
 ## 7. Calculating Excess Returns for Amazon and Facebook vs. S&P 500
@@ -465,7 +465,7 @@ excess_returns.describe()
 
 
 
-![png](/assets/images/notebook_13_1.png)
+![png](/assets/images/sharpe-ratio/notebook_13_1.png)
 
 
 ## 8. The Sharpe Ratio, Step 1: The Average Difference in Daily Returns Stocks vs S&P 500
@@ -483,7 +483,7 @@ plt.show()
 ```
 
 ../assets/images/notebook_
-![png](../assets/images/notebook_15_0.png)
+![png](/assets/images/sharpe-ratio/notebook_15_0.png)
 
 
 ## 9. The Sharpe Ratio, Step 2: Standard Deviation of the Return Difference
@@ -507,7 +507,7 @@ sd_excess_return.plot.bar(title='Standard Deviation of the Return Difference')
 
 
 
-![png](output_17_1.png)
+![png](/assets/images/sharpe-ratio/notebook_17_1.png)
 
 
 ## 10. Putting it all together
@@ -529,7 +529,7 @@ plt.show()
 ```
 
 
-![png](output_19_0.png)
+![png](/assets/images/sharpe-ratio/notebook_19_0.png)
 
 
 ## 11. Conclusion
