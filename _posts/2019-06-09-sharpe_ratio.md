@@ -168,7 +168,7 @@ stock_data.describe()
 
 
 
-![png](../assets/images/notebook_5_1.png)
+![png](/assets/images/sharpe-ratio/notebook_5_1.png)
 
 
 ## 4. Visualize & summarize daily values for the S&P 500
@@ -247,7 +247,7 @@ benchmark_data.describe()
 
 
 
-![png](/assets/images/notebook_7_1.png)
+![png](/assets/images/sharpe-ratio/notebook_7_1.png)
 
 
 ## 5. The inputs for the Sharpe Ratio: Starting with Daily Stock Returns
