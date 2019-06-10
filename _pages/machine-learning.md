@@ -7,7 +7,7 @@ header:
   image: "/assets/images/background.jpeg"
 ---
 
-{% include base_path %}
+{% include index.html %}
 {% include group-by-array collection=site.posts field="tags" %}
 
 {% for tag in group_names %}
