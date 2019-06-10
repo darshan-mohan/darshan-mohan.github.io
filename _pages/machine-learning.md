@@ -1,13 +1,13 @@
 ---
 layout: archive
-permalink: /machine_learning/
+permalink: /machine-learning/
 title: "Machine Learning"
 author_profile: true
 header:
   image: "/assets/images/background.jpeg"
 ---
 
-<!-- {% include base_path %} -->
+{% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
 
 {% for tag in group_names %}
