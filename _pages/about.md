@@ -6,4 +6,4 @@ header:
 
 ---
 
-I'm a data scientist who wants to make social upliftment.
+Telling stories for social upliftment.
