@@ -168,7 +168,7 @@ stock_data.describe()
 
 
 
-![png](/assets/images/notebook_5_1.png)
+![png](../assets/images/notebook_5_1.png)
 
 
 ## 4. Visualize & summarize daily values for the S&P 500
@@ -482,8 +482,8 @@ avg_excess_return.plot.bar(title='Mean of the Return Difference')
 plt.show()
 ```
 
-
-![png](/assets/images/notebook_15_0.png)
+../assets/images/notebook_
+![png](../assets/images/notebook_15_0.png)
 
 
 ## 9. The Sharpe Ratio, Step 2: Standard Deviation of the Return Difference
